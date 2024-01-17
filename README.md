@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=deepuyadav004&color=green)
 <a href="https://dpuydv.github.io">
@@ -29,14 +28,14 @@ Here are some ideas to get you started:
 
 <a href="https://dpuydv.github.io/My-Portfolio/">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=deepuyadav004&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=dpuydv&column=7&theme=onedark"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="https://dpuydv.github.io">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepuyadav004&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepuyadav004&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=dpuydv&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpuydv&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 </a>
 
